@@ -135,5 +135,8 @@
     "params.generic.arrange.top": "Mettre en avant",
     "params.generic.arrange.bottom": "Mettre en arrière plan",
     "params.label.warning.div8": "La largeur de l'étiquette en pixels doit être divisible par 8",
-    "params.saved_labels.save.withcsv": "Les données dynamiques (CSV) sont activées, elles seront donc incluses dans l'étiquette sauvegardée"
+    "params.saved_labels.save.withcsv": "Les données dynamiques (CSV) sont activées, elles seront donc incluses dans l'étiquette sauvegardée",
+    "editor.iconpicker.show.both": "Icônes utilisateur + pack",
+    "editor.import.pdf": "Import PDF",
+    "editor.grid": "Grille"
 }
