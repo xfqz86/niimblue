@@ -182,5 +182,6 @@
     "fonts.browse": "Przeglądaj...",
     "fonts.gfonts": "Pobierz czcionki",
     "fonts.title_override": "Nadpisz nazwę",
-    "editor.objectpicker.aruco": "ArUco"
+    "editor.objectpicker.aruco": "ArUco",
+    "editor.grid": "Siatka"
 }
